@@ -1,8 +1,8 @@
 export const THEME_CONFIG: App.Locals['config'] = {
   /** blog title */
-  title: "活版印字",
+  title: "Wenguang",
   /** your name */
-  author: "Typography",
+  author: "Wenguang's Blog",
   /** website description */
   desc: "Rediscory the beauty of typography",
   /** your deployed domain */
